@@ -2,17 +2,18 @@
 __pycache__/
 *.pyc
 
-# Entorno virtual
+# Virtual Enviroment
 .venv/
 venv/
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Sistema
+# System
 .DS_Store
+.idea/
 
-# Datos y modelos
+# Data
 *.csv
 *.pkl
 *.h5
