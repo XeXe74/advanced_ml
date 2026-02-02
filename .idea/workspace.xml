@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2179e77f-e706-42da-9493-18bdb126a3de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/advanced_ml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/advanced_ml.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +37,11 @@
     "Python.Ejercicio_1.executor": "Run",
     "Python.Exercise_1.executor": "Run",
     "Python.breast_cancer_classification.executor": "Run",
+    "Python.camera_app.executor": "Run",
     "Python.iris_classification.executor": "Run",
+    "Python.model.executor": "Run",
     "Python.perceptron_skeleton.executor": "Run",
+    "Python.train_model.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
